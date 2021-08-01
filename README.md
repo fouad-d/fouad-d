@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-fouad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ##  Find me on Mastodon:
+<p align="center">
 <a href="https://mamot.fr/@fouad" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br /
 
 ## 🧰 Languages and Tools:
 <p align="center">
