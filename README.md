@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me about Linux
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fouad-d&show_icons=true&theme=gruvbox)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=fouad-d&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fouad-d&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fouad-d&theme=gruvbox)-->
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fouad-d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  --> 
